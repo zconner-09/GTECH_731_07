@@ -1,6 +1,6 @@
 # GTECH_731_07
-Homework assignment 7 for GTECH 731. The goal of this assignment is to get some working familiarity with ArcPy. Write a Python script that uses ArcPy to create an output dataset from an input dataset, using at least one toolbox call. Some data to work with is included in the attached file:__
-manh_data.zip  
+Homework assignment 7 for GTECH 731. The goal of this assignment is to get some working familiarity with ArcPy. Write a Python script that uses ArcPy to create an output dataset from an input dataset, using at least one toolbox call. Some data to work with is included in the attached file
+manh_data.zip <br /> 
 
 I'd recommend this option if you want to explore a little more and use local data.
 
